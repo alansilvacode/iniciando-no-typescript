@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/howstrangeoficial/iniciando-no-typescript/issues"
   },
-  "homepage": "https://github.com/howstrangeoficial/iniciando-no-typescript#readme"
+  "homepage": "https://github.com/howstrangeoficial/iniciando-no-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
